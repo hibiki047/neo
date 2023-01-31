@@ -24,3 +24,12 @@ body {
      width: fit-content;
      height: fit-content;
      margin: 0px auto;
+}
+
+label[for] {
+    background: yellow;
+}
+
+body legend {
+    background: skyblue;
+}
