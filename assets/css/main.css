@@ -1,3 +1,18 @@
+/* Color Font and Kebas */
+
+:root {
+    /* As color in the */
+    --darkest-color: #3C4048;
+    --not-so-dark-color: #202123;
+    --middle-color: #B2B2B2;
+    --not-so-bright-color: #F2E7D5;
+    --brightest-color: #F7F7F7;
+}
+
+body {
+    background-color: var(--darkest-color);
+}
+
 /* components */
 
 .nav {
