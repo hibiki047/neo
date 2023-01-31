@@ -41,7 +41,7 @@ body {
     margin-top: 15px;
 }
 
-hibiki {
+.hibiki {
     background-image: url("../images/2.png");
     background-repeat: no-repeat;
     background-size: content;
