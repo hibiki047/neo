@@ -49,15 +49,6 @@ body legend {
     background: skyblue;
 }
 
-.container {
-    text-align: center;
-}
-
-.center_div {
-    margin-left: auto;
-    margin-right: auto;
-}
-
 hibiki {
     background-image: url("../images/2.png");
     background-repeat: no-repeat;
@@ -134,16 +125,6 @@ p.one {
 }
 
 /* the fuck */
-
-.bg {
-    background-image: url("../images/1.jpg");
-    background-repeat: no-repeat;
-    position: relative;
-    width: 100%;
-    max-width: 800px;
-    height: fit-content;
-    margin: 0px auto;
-}
 
 test {
     background-image: url(https://media.tenor.com/5b0K79F9ivQAAAAC/cat-girl-anime.gif);
