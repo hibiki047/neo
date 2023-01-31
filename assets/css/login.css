@@ -15,6 +15,7 @@ body {
      background-repeat: no-repeat;
      background-postion: center;
      margin: 0px auto;
+     width: 100%;
 }
 
 .container {
@@ -24,6 +25,7 @@ body {
 .center_div {
     margin-left: auto;
     margin-right: auto;
+    position: relative;
 }
 
 .bg {
