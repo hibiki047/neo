@@ -28,8 +28,8 @@ body {
     text-align: center;
     align-content:center;
     background-color: #7b6a6c;
-    margin-left: 160px;
-    margin-right: 160px;
+    margin-left: 300px;
+    margin-right: 300px;
     margin-top: 10px;
     margin-bottom: 20px;
 }
@@ -67,6 +67,13 @@ h1 {
     font-weight: 400;
 }
 
+h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 22px;
+    font-weight: 400;
+}
+
 .underline {
     text-decoration: underline;
 }
@@ -84,6 +91,32 @@ p.one {
     margin-left: 100px;
     margin-right: 100px;
     background-color: #5d9ab2;
+}
+
+#members {
+    font-family: sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#members td, #members th {
+    font-size: 1.1em;
+    border: 1px solid #98bf21;
+    padding: 3px 7px 2px 7px;
+}
+
+#members th {
+    font-size: 1.1em;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #A7C942;
+    color:#ff990d;
+}
+
+#members tr.alt td {
+    color: #000000;
+    background-color: #EAF2D3;
 }
 
 /* the fuck */
