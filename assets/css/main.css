@@ -58,6 +58,18 @@ body legend {
     margin-right: auto;
 }
 
+hibiki {
+    background-image: url("../images/2.png");
+    background-repeat: no-repeat;
+    background-size: content;
+    position: relative;
+    width: 252px;
+    height: 248px;
+    margin: 0px auto;
+    margin-top: 40px;
+    margin-botom: 20px;
+}
+
 /* text format */
 
 h1 {
@@ -126,10 +138,11 @@ p.one {
 .bg {
     background-image: url("../images/1.jpg");
     background-repeat: no-repeat;
-    background-position: center;
+    position: relative;
     width: 100%;
     max-width: 800px;
     height: fit-content;
+    margin: 0px auto;
 }
 
 test {
