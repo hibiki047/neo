@@ -16,6 +16,7 @@ body {
      background-postion: center;
      margin: 0px auto;
      width: 100%;
+     max-width: fit-content;
 }
 
 .container {
@@ -49,4 +50,8 @@ label[for] {
 
 body legend {
     background: skyblue;
+}
+
+form {
+    position: center;
 }
