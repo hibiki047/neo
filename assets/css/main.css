@@ -41,14 +41,6 @@ body {
     margin-top: 15px;
 }
 
-label[for] {
-    background: yellow;
-}
-
-body legend {
-    background: skyblue;
-}
-
 hibiki {
     background-image: url("../images/2.png");
     background-repeat: no-repeat;
