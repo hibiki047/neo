@@ -46,8 +46,8 @@ body {
     background-repeat: no-repeat;
     background-size: content;
     position: relative;
-    width: 252px;
-    height: 248px;
+    width: fit-content;
+    height: fit-content;
     margin: 0px auto;
     margin-top: 40px;
     margin-botom: 20px;
@@ -120,6 +120,8 @@ p.one {
 
 .test {
     background-image: url(https://media.tenor.com/5b0K79F9ivQAAAAC/cat-girl-anime.gif);
-    width: 100%;
-    max-width: 600px;
+    position: relative;
+    margin: 0px auto;
+    width: fit-content;
+    height: fit-content;
 }
