@@ -1,7 +1,17 @@
 /* Login */
 
+:root {
+    /* As color in the */
+    --darkest-color: #3C4048;
+    --not-so-dark-color: #202123;
+    --middle-color: #B2B2B2;
+    --not-so-bright-color: #F2E7D5;
+    --brightest-color: #F7F7F7;
+}
+
 body {
-     background-image: url("../images/1.jpg);
+     background-image: url("../images/1.jpg");
+     background-color: var(--darkest-color);
      background-repeat: no-repeat;
      background-postion: center;
      margin: 0px auto;
@@ -22,6 +32,13 @@ body {
     width: 100%;
     max-width: 800px;
     height: auto;
+}
+
+.content {
+    align-content: center;
+    text-align: center;
+    font-size: 14pt;
+    margin-top: 15px;
 }
 
 label[for] {
