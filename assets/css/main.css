@@ -127,5 +127,11 @@ p.one {
     background-position: center;
     width: 100%;
     max-width: 800px;
-    height: auto;
+    height: fit-content;
+}
+
+test {
+    background-image: url(https://media.tenor.com/5b0K79F9ivQAAAAC/cat-girl-anime.gif);
+    width: 100%;
+    max-width: 600px;
 }
