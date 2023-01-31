@@ -1,5 +1,12 @@
 /* Login */
 
+body {
+     background-image: url("../images/1.jpg);
+     background-repeat: no-repeat;
+     background-postion: center;
+     margin: 0px auto;
+}
+
 .container {
     text-align: center;
 }
@@ -14,11 +21,7 @@
     background-repeat: no-repeat;
     width: 100%;
     max-width: 800px;
-    height: fit-content;
-}
-
-body {
-     background-image: url("../images/1.jpg);
+    height: auto;
 }
 
 label[for] {
