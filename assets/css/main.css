@@ -55,6 +55,8 @@ body {
 
 table {
     position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /* text format */
@@ -126,6 +128,6 @@ p.one {
     background-image: url(https://media.tenor.com/5b0K79F9ivQAAAAC/cat-girl-anime.gif);
     position: relative;
     margin: 0px auto;
-    width: 400px;
-    height: 400px;
+    width: 410px;
+    height: 410px;
 }
